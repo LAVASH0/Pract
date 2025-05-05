@@ -1,5 +1,12 @@
 #!/bin/bash
 
+if [ -d ".git" ]; then
+  echo "Git репозиторій вже ініціалізований. Пропускаємо git init."
+else
+  git init
+  echo "Репозиторій ініціалізовано."
+fi
+
 git add .
 echo -n "Назва коміта: "
 read namecomm
