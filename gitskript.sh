@@ -1,5 +1,4 @@
 #!/bin/bash
-
 if [ -d ".git" ]; then
   echo "Git репозиторій вже ініціалізований. Пропускаємо git init."
 else
