@@ -1,1 +1,5 @@
+Дизайн:
 https://www.figma.com/design/Ruj7HNoqnBhHfpOGWBAzQV/Untitled?node-id=0-1&m=dev&t=b6vI1Dx145hnGZfb-1
+
+БД Firebase:
+https://console.firebase.google.com/u/0/project/shop-app228/firestore/databases/-default-/data/~2FVideo%20Transmitters%20~2F11015
